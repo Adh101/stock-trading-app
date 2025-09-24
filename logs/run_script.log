@@ -8,3 +8,13 @@ Stopping: HTTP 429
 Total tickers fetched: 5000
 5000 Tickers saved to tickers.csv
 2025-09-23 20:36:04 OK
+2025-09-23 20:39:00 START script.py
+Requesting next page https://api.polygon.io/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9MTAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+Requesting next page https://api.polygon.io/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9MjAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+Requesting next page https://api.polygon.io/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9MzAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+Requesting next page https://api.polygon.io/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9NDAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+Requesting next page https://api.polygon.io/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9NTAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+Stopping: HTTP 429
+Total tickers fetched: 5000
+5000 Tickers saved to tickers.csv
+2025-09-23 20:39:03 OK

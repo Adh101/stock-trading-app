@@ -1,2 +1,5 @@
 pythonenv/
-.env
+.envpythonenv/
+__pycache__/
+*.pyc
+.DS_Store
