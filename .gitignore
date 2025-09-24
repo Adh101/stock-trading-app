@@ -1,4 +1,5 @@
 pythonenv/
+.env/
 .envpythonenv/
 __pycache__/
 *.pyc
