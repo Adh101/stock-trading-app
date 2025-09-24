@@ -11,7 +11,7 @@ def basic_job():
 #schedule.every().minute.do(basic_job)
 #schedule.every().minute.do(run_stock_job)
 
-#Run every 5 minutes
+# Run the job every 5 minutes
 schedule.every(3).minutes.do(basic_job)
 schedule.every(3).minutes.do(run_stock_job)
 
