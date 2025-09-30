@@ -5,7 +5,7 @@ set -euo pipefail
 PROJECT_DIR="/Users/atishdhamala/stock-trading-app"
 VENV_DIR="$PROJECT_DIR/pythonenv"
 PY="$VENV_DIR/bin/python3"
-SCRIPT="$PROJECT_DIR/script.py"      # <- your script
+SCRIPT="$PROJECT_DIR/script.py"
 LOG_DIR="$PROJECT_DIR/logs"
 MAIN_LOG="$LOG_DIR/run_script.log"
 # -------------------------
